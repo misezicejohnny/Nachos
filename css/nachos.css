@@ -1,0 +1,76 @@
+header{
+	text-align: center;
+	padding-top: 30px;
+	padding-left: 30px;
+}
+
+header img{
+	border-radius: 170px;
+    width: 350px;
+    border: 100px;
+}
+
+Header h1{
+	color: yellow;
+	font-size: 120px;
+
+
+}
+
+h2{
+	color: yellow;
+	text-align: center;
+	font-size: 60px;
+}
+	
+body{
+	text-align: center;
+	font-family: 'Cookie', cursive;
+	text-shadow: initial;
+	background-image: url(https://coolbackgrounds.io/images/backgrounds/index/disco-dba865f1.png)
+
+}
+
+Main img {
+	max-width: 80%;
+	border-color: whitesmoke;
+	border-radius: 700px;
+}
+
+Main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+
+}
+
+p{
+	font-size: 40px;
+	color: whitesmoke;
+	text-shadow: yellow;
+	text-align: left;
+}
+
+ol{
+	font-size: 40px;
+	color: whitesmoke;
+	text-align: left;
+}
+
+ul{
+	font-size: 50px;
+	color: whitesmoke;
+	text-align: left;
+}
+
+a{
+	color: whitesmoke;
+}
+
+footer p {
+	color: yellow;
+	padding-bottom: 30px;
+}
